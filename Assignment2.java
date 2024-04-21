@@ -1,4 +1,3 @@
-package SampleProgram;
 
 public class Assignment2 {
 
